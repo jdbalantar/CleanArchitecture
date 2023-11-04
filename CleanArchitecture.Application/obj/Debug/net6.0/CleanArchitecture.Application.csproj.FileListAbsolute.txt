@@ -1,0 +1,15 @@
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\refint\CleanArchitecture.Application.dll
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\jdbalanta\Documents\Cursos\dotnet\CleanArchitecture\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll
